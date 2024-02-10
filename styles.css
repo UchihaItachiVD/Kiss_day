@@ -1,10 +1,10 @@
 body {
-    background-color: #10c036;
+/*     background-color: #10c036; */
     margin: 0;
 }
 
 .container-wrapper {
-    background-color: #d668ec;
+/*     background-color: #d668ec; */
     /* Background color for the container */
     height: 100vh;
     display: flex;
